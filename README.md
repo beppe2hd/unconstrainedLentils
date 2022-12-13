@@ -7,6 +7,7 @@ Lentil (Lens culinaris Medik.) is among the most common cultivated grain legumes
 
 The acquisition image campaign was carried out under hybrid lighting systems with the use of available natural daylight, sometimes supplemented with artificial light to meet the required level of seeds illumination. The focus and iris parameters of the camera were set at fixed values.
 The images were acquired from a camera of a smartphone positioned on a height-adjustable holding structure (camera support) on different days. The camera support was moved between acquisition campaigns, and we found that its repositioning contained a non-negligible error for the purposes of the evaluation process here described. This means that the images in some cases showed a different scaling factor that was handled by the algorithms. In Figure 1 the acquisition setup is shown.
+<img src="./images/setup.png" alt="setup" width="200"/>
 ![title](./images/setup.png)
 
 ## Dataset
