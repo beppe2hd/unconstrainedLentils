@@ -17,6 +17,18 @@ The **dataset** folder contains original images and classes annotation provided 
 ![title](./images/classes.jpg)
 
 ## Citation 
+
+The dataset is relased under MIT licence. 
+
 ```
-The paper containing the first dataset usage and release will be made available soon
+@article{del2022characterization,
+  title={Characterization of a Collection of Colored Lentil Genetic Resources Using a Novel Computer Vision Approach},
+  author={Del Coco, Marco and Laddomada, Barbara and Romano, Giuseppe and Carcagn{\`\i}, Pierluigi and Kumar, Shiv and Leo, Marco},
+  journal={Foods},
+  volume={11},
+  number={24},
+  pages={3964},
+  year={2022},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
  ```
